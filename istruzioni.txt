@@ -1,0 +1,6 @@
+Creare una variabile da collegare con il markup
+all'interno creo un'array di oggetti con le descrizioni degli items del carosello: suddivisi in
+- image
+- title
+- text
+Li insersco in un ciclo for attraverso sintassi Vue Js con v-for e collego gli elementi

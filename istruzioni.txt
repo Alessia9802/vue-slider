@@ -3,4 +3,9 @@ all'interno creo un'array di oggetti con le descrizioni degli items del carosell
 - image
 - title
 - text
-Li insersco in un ciclo for attraverso sintassi Vue Js con v-for e collego gli elementi
+Li inserisco in un ciclo for attraverso sintassi Vue Js con v-for e collego gli elementi
+
+Immagine selezionata
+- creo due pulsanti
+- dichiaro dentro data l'immagine active
+- pulsante incremento o decremento per cambiamento immagine
